@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Wallpoet&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+body > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#watch {
+    font-size: 15rem;
+    font-family: 'Wallpoet', cursive;
+}
